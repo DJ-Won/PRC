@@ -321,7 +321,7 @@
         <mxCell id="mLFTSqf2QsJ4d4m3Y8HO-0" />
         <mxCell id="mLFTSqf2QsJ4d4m3Y8HO-1" parent="mLFTSqf2QsJ4d4m3Y8HO-0" />
         <mxCell id="Sirn1wPq8ghl-da1M9gv-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;arcSize=9;textOpacity=50;textShadow=0;opacity=70;" vertex="1" parent="mLFTSqf2QsJ4d4m3Y8HO-1">
-          <mxGeometry x="420" y="250" width="290" height="500" as="geometry" />
+          <mxGeometry x="420" y="250" width="280" height="500" as="geometry" />
         </mxCell>
         <mxCell id="mLFTSqf2QsJ4d4m3Y8HO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="mLFTSqf2QsJ4d4m3Y8HO-1">
           <mxGeometry x="30" y="160" width="290" height="360" as="geometry" />
@@ -412,7 +412,7 @@
           <mxGeometry x="195" y="250" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLFTSqf2QsJ4d4m3Y8HO-26" value="信号嵌入器" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mLFTSqf2QsJ4d4m3Y8HO-1">
-          <mxGeometry x="710" y="350" width="110" height="50" as="geometry" />
+          <mxGeometry x="717" y="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLFTSqf2QsJ4d4m3Y8HO-27" value="扩散模型解码器" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mLFTSqf2QsJ4d4m3Y8HO-1">
           <mxGeometry x="430" y="517.5" width="110" height="50" as="geometry" />
